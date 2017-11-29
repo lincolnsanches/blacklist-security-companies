@@ -17,4 +17,4 @@ Essa blacklist não é sobre empresas com a segurança fragilizada ou algo do g�
 - Empresas absurdamente burocráticas e engessadas na área de Segurança da Informação.
 - Qualquer tipo de empresa não recomendada a quem procura entrar no mercado, na função de segurança da informação.
 
-Acesse a lista em: https://github.com/john-goes/blacklist-security-companies/Blacklist-empresas.md
+Acesse a lista em: https://github.com/john-goes/blacklist-security-companies/blob/master/Blacklist-empresas.md

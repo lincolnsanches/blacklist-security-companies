@@ -16,3 +16,5 @@ Essa blacklist não é sobre empresas com a segurança fragilizada ou algo do g�
 - Empresas que dão pouca visibilidade/importância para o profissional da área (internamente).
 - Empresas absurdamente burocráticas e engessadas na área de Segurança da Informação.
 - Qualquer tipo de empresa não recomendada a quem procura entrar no mercado, na função de segurança da informação.
+
+john-goes/blacklist-security-companies/Blacklist-empresas.md#1

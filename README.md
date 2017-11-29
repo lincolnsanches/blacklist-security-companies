@@ -9,7 +9,7 @@ A lista é divulgada amplamente na comunidade brasileira de Segurança da Inform
 
 ### Observação importante
 Essa blacklist não é sobre empresas com a segurança fragilizada ou algo do gênero. É uma lista de empresas que não tratam bem a *área* de Segurança da Informação. _Essa lista visa divulgar empresas que tratam mal funcionários da área, exigem muito pagando mal, criam vagas irreais, não respondem tentativas de entrada_. O objetivo é filtrar para o profissional em busca de uma posição em Segurança da Informação empresas que não lidam bem com a área/profissão. Exemplos:
-- Vagas que requerem 8 certificações e pagam R$ 1.000,00 por mês.
+- Empresas que divulgam vagas que requerem 8 certificações e pagam R$ 1.000,00 por mês.
 - Empresas que divulgam vagas que não existem.
 - Empresas que divulgam vagas "urgentes" e não respondem a envios de currículo.
 - Empresas que beneficiam amizades ao invés de resultado, na área de segurança da informação (internamente).

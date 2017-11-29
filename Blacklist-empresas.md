@@ -12,7 +12,7 @@
 - Empresa C
 - Empresa D
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿
+🇯🇵:
 - Empresa E
 - Empresa F
 - Empresa G

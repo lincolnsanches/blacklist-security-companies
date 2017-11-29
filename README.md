@@ -14,3 +14,4 @@ Essa blacklist não é sobre empresas com a segurança fragilizada ou algo do g�
 - Empresas que divulgam vagas "urgentes" e não respondem a envios de currículo.
 - Empresas que beneficiam amizades ao invés de resultado, na área de segurança da informação (internamente).
 - Empresas que dão pouca visibilidade/importância para o profissional da área (internamente).
+- Empresas absurdamente burocráticas e engessadas 

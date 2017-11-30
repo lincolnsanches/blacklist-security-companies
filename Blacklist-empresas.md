@@ -3,7 +3,6 @@
 🇧🇷:
 - Proteus Security
 - Douglas Lopes
-- eSecurity
 
 🇺🇸:
 - 

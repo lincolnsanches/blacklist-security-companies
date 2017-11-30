@@ -1,6 +1,6 @@
 # blacklist-security-companies
 
-## Blacklist de empresas no ponto de vista da Segurança da Informação.
+## Blacklist de empresas no ponto de vista da área de Segurança da Informação.
 Como se comportam perante a área e seus profissionais. Desde sua posição quanto a requerimentos em vagas pra área até sua valorização dentro da empresa.
 
 

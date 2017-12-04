@@ -3,6 +3,7 @@
 🇧🇷:
 - Proteus Security
 - Douglas Lopes
+- XP Investimentos 
 
 🇺🇸:
 - 
